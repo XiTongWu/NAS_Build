@@ -12,3 +12,8 @@
   Nextcloud安装的是docker的镜像，需要自己手动启动
   
   Embyserver默认安装当前目录下名为emby的deb文件，如果没有则会从官方的github下载4.3.1.0版本的deb，并自动安装
+  
+ ###2021.04.14补充
+  1.考虑更换媒体服务器（JellyFin）
+  2.Microsoft出品的Powertoy可以批量+正则表达式修改文件名。
+  3.使用宝塔面板来控制ftp服务。vsftpd的对应端口一旦用frp进行内网穿透，就会神tm变成不安全链接
